@@ -1,0 +1,26 @@
+{
+  "author": "Jason Walsh <npm@jwalsh.net>",
+  "name": "parm",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.16.2",
+    "grunt": "~0.4.2"
+  },
+  "description": "Standard utility function for extracting parameters from a query string.",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jwalsh/parm.git"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jwalsh/parm/issues"
+  }
+}
